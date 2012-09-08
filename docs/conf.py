@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# Turtles Speaks Mathematics Spanish Version documentation build configuration file, created by
+# Turtles Speak Mathematics Spanish Version documentation build configuration file, created by
 # sphinx-quickstart on Sat Sep  8 13:00:05 2012.
 #
 # This file is execfile()d with the current directory set to its containing dir.
@@ -40,7 +40,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Turtles Speaks Mathematics - Spanish Version'
+project = u'Turtles Speak Mathematics - Spanish Version'
 copyright = u'2012, Melina Lucía Coronel'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -164,7 +164,7 @@ html_use_index = False
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'TurtlesSpeaksMathematics-SpanishVersiondoc'
+htmlhelp_basename = 'TurtlesSpeakMathematics-SpanishVersiondoc'
 
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -183,7 +183,7 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'TurtlesSpeaksMathematicsSpanishVersion.tex', u'Turtles Speaks Mathematics Spanish Version Documentation',
+  ('index', 'TurtlesSpeakMathematicsSpanishVersion.tex', u'Turtles Speak Mathematics Spanish Version Documentation',
    u'Melina Lucía Coronel', 'manual'),
 ]
 
@@ -213,7 +213,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'turtlesspeaksmathematicsspanishversion', u'Turtles Speaks Mathematics Spanish Version Documentation',
+    ('index', 'turtlesspeaksmathematicsspanishversion', u'Turtles Speak Mathematics Spanish Version Documentation',
      [u'Melina Lucía Coronel'], 1)
 ]
 
@@ -227,8 +227,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'TurtlesSpeaksMathematicsSpanishVersion', u'Turtles Speaks Mathematics Spanish Version Documentation',
-   u'Melina Lucía Coronel', 'TurtlesSpeaksMathematicsSpanishVersion', 'One line description of project.',
+  ('index', 'TurtlesSpeakMathematicsSpanishVersion', u'Turtles Speak Mathematics Spanish Version Documentation',
+   u'Melina Lucía Coronel', 'TurtlesSpeakMathematicsSpanishVersion', 'One line description of project.',
    'Miscellaneous'),
 ]
 
