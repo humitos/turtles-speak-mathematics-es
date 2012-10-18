@@ -1,8 +1,8 @@
 .. Turtle Confusion - Spanish version documentation master file, created by
    sphinx-quickstart on Sat Aug 18 12:39:50 2012.
 
-Turtle Confusion - Versión en Español
-=====================================
+Turtles Speak Mathematics - Versión en Español
+==============================================
 
 :Versión: 1.0 (UNFINISHED)
 :Fecha: 8th September, 2012
@@ -15,8 +15,21 @@ Turtle Confusion - Versión en Español
 .. _Melina Lucía Coronel: melina_coronel@yahoo.com.ar
 .. _Manuel Kaufmann: humitos@gmail.com
 
+.. raw:: pdf
+
+   PageBreak
+
 .. include:: foreword.rst
+
+.. raw:: pdf
+
+   PageBreak
+
 .. include:: acknowledgements.rst
+
+.. raw:: pdf
+
+   PageBreak twoColumn
 
 .. include:: scene-01.rst
 .. include:: scene-02.rst

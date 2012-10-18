@@ -43,6 +43,13 @@
         showHeader : false
         showFooter : false
 
+    twoColumn:
+        frames: []
+            [0cm, 0cm, 49%, 100%]
+            [51%, 0cm, 49%, 100%]
+        showHeader : true
+        showFooter : true
+
   fontsAlias:
     stdFont: Helvetica
     stdBold: Helvetica-Bold
