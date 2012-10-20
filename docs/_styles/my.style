@@ -50,6 +50,20 @@
         showHeader : true
         showFooter : true
 
+    aParable1:
+        frames: []
+            [0cm, 0cm, 100%, 100%]
+        background : docs/_static/images/sheet_of_paper.pdf
+        showHeader : false
+        showFooter : false
+
+    aParable2:
+        frames: []
+            [0cm, 0cm, 100%, 100%]
+        background : docs/_static/images/sheet_of_paper_2.pdf
+        showHeader : false
+        showFooter : false
+
   fontsAlias:
     stdFont: Helvetica
     stdBold: Helvetica-Bold
