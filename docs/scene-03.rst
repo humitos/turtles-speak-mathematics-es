@@ -7,21 +7,23 @@ Escenario 3
    :scale: 50 %
    :align: left
 
-.. HACK: The next dot (.) is needed because of a bug in rst2pdf/reportlab
-      that does not allow to make a PageBreak without printable content
+.. raw:: pdf
+
+   PageBreak oneColumn
+
+
+.. image:: _static/images/sheet_of_paper.svg
+   :scale: 100 %
+   :align: left
 
 .. raw:: pdf
 
-   PageBreak aParable1
-
-.
-
-.. raw:: pdf
-
-   PageBreak aParable2
+   PageBreak
 
 
-.
+.. image:: _static/images/sheet_of_paper_2.svg
+   :scale: 100 %
+   :align: left
 
 .. raw:: pdf
 

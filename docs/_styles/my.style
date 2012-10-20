@@ -11,9 +11,9 @@
     height: null
     margin-top: 1cm
     margin-bottom: 1cm
-    margin-left: 2cm
-    margin-right: 2cm
-    margin-gutter: 1.5cm
+    margin-left: 3.5cm
+    margin-right: 3.5cm
+    margin-gutter: -1.5cm
     spacing-header: 0cm
     spacing-footer: 0cm
 
@@ -49,20 +49,6 @@
             [51%, 0cm, 49%, 100%]
         showHeader : true
         showFooter : true
-
-    aParable1:
-        frames: []
-            [0cm, 0cm, 100%, 100%]
-        background : docs/_static/images/sheet_of_paper.pdf
-        showHeader : false
-        showFooter : false
-
-    aParable2:
-        frames: []
-            [0cm, 0cm, 100%, 100%]
-        background : docs/_static/images/sheet_of_paper_2.pdf
-        showHeader : false
-        showFooter : false
 
   fontsAlias:
     stdFont: Helvetica
